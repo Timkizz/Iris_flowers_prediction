@@ -28,6 +28,7 @@ To prepare the dataset for machine learning by:
   * [x] Encoded Target Variable (Species)
 
 ## Visualizations
+https://github.com/Timkizz/Iris_flowers_prediction/blob/main/Correlation_Matrix.png
 
 
 ## Key Insights
